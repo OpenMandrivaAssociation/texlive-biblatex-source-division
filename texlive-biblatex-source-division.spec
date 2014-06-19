@@ -1,12 +1,12 @@
-# revision 32718
+# revision 34267
 # category Package
 # catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-source-division
-# catalog-date 2014-01-19 18:52:02 +0100
+# catalog-date 2014-06-17 21:28:47 +0200
 # catalog-license lppl1.3
-# catalog-version 1.1.0
+# catalog-version 2.2.0
 Name:		texlive-biblatex-source-division
-Version:	1.1.0
-Release:	2
+Version:	2.2.0
+Release:	1
 Summary:	References by "division" in classical sources
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-source-division
@@ -44,7 +44,6 @@ square brackets may include the "division" specification, as in
 %doc %{_texmfdistdir}/doc/latex/biblatex-source-division/biblatex-source-division.tex
 %doc %{_texmfdistdir}/doc/latex/biblatex-source-division/latexmkrc
 %doc %{_texmfdistdir}/doc/latex/biblatex-source-division/makefile
-%doc %{_texmfdistdir}/doc/latex/biblatex-source-division/tabular.pdf
 
 #-----------------------------------------------------------------------
 %prep
