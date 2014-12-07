@@ -6,7 +6,7 @@
 # catalog-version 2.2.0
 Name:		texlive-biblatex-source-division
 Version:	2.2.0
-Release:	2
+Release:	3
 Summary:	References by "division" in classical sources
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-source-division
