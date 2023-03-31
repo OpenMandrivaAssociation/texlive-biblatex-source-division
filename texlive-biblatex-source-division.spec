@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-source-division
 Version:	45379
-Release:	1
+Release:	2
 Summary:	References by "division" in classical sources
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-source-division
